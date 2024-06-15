@@ -14,7 +14,7 @@ Output Format:
 
 return the minimum number of coins required to meet the given target.
 
-Example Input:
+Example Input: 
 
 16
 
