@@ -11,7 +11,7 @@ Input :  votes[] = {"john", "johnny", "jackie",
                     "jamie", "jamie", "john",
 
                     "johnny", "jamie", "johnny",
-
+ 
                     "john"};
 
 Output : John
