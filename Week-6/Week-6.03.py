@@ -14,7 +14,7 @@ The second line contains S2.
 
 The third line contains N.
 
-
+ 
 
 Output Format:
 
