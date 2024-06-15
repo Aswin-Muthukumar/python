@@ -13,7 +13,7 @@ Output Format:
 Yes or No.
 
 Example Input:
-
+ 
 175
 
 Output:
