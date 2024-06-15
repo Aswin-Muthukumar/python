@@ -10,7 +10,7 @@ Output: 2
 
 Explanation: 
 
-Pairs with sum K( = 13) are  {(5, 8), (6, 7), (6, 7)}. 
+Pairs with sum K( = 13) are  {(5, 8), (6, 7), (6, 7)}.  
 
 Therefore, distinct pairs with sum K( = 13) are { (5, 8), (6, 7) }. 
 
