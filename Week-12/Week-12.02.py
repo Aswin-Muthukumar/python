@@ -13,7 +13,7 @@ Input	Result
 def is_power_of_four(n):
 
     if n <= 0:
-
+ 
         return False
 
     while n > 1:
