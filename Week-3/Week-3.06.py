@@ -7,7 +7,7 @@ Most years have 365 days. However, the time required for the Earth to orbit the 
 • Of the remaining years, any year that is divisible by 100 is not a leap year.
 
 • Of the remaining years, any year that is divisible by 4 is a leap year.
-
+ 
 • All other years are not leap years.
 
 Write a program that reads a year from the user and displays a message indicating whether or not it is a leap year.
