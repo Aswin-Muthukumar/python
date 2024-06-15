@@ -14,7 +14,7 @@ Explanation:
 
 The binary representation of 3 is 011, hence there are 2 ones in it. so the output is 2.
 
-
+ 
 
 a=int(input())
 
