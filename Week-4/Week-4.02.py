@@ -9,7 +9,7 @@ Some examples are as below.
 If the given number is 292, the program should return 1 because there is only 1 non-repeated digit '9' in this number
 
 If the given number is 1015, the program should return 2 because there are 2 non-repeated digits in this number, '0', and '5'.
-
+ 
 If the given number is 108, the program should return 3 because there are 3 non-repeated digits in this number, '1', '0', and '8'.
 
 If the given number is 22, the function should return 0 because there are NO non-repeated digits in this number.
