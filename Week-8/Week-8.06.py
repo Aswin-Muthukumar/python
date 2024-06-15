@@ -9,7 +9,7 @@ Example 1:
 Input: text = "hello world", brokenLetters = "ad"
 
 Output: 
-
+ 
 1
 
 Explanation: We cannot type "world" because the 'd' key is broken.
