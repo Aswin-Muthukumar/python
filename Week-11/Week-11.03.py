@@ -11,7 +11,7 @@ Output Format:
 Confirm the input or print an error message if it's invalid or out of range.
 
 For example:
-
+ 
 Input	Result
 
 1	Valid input.
