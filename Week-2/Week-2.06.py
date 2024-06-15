@@ -5,7 +5,7 @@ A team from the Rotract club had planned to conduct a rally to create awareness 
  Write a program and feed it to the system to find whether a person is eligible or not.
 
 
-
+ 
 Input Format:
 
 Input consists of two integers that correspond to the age and weight of a person respectively.
