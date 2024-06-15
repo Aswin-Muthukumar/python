@@ -13,7 +13,7 @@ The second line contains Rs Y
 The third line contains Rs Z
 
 Sample Input:
-
+ 
 10000
 
 250
