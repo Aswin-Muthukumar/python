@@ -12,7 +12,7 @@ For example:
 
 If input is “Wipro Technologies Bangalore” the function should return “TECHNOLOGIES”
 
-If input is “Hello World” the function should return “WORLD”
+If input is “Hello World” the function should return “WORLD” 
 
 If input is “Hello” the program should return “LESS”
 
