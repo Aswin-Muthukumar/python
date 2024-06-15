@@ -5,7 +5,7 @@ In many jurisdictions, a small deposit is added to drink containers to encourage
 Sample Input
 
 10
-
+ 
 20
 
 Sample Output
