@@ -10,7 +10,7 @@ Take an input integer from stdin.
 
 
 
-Output Format:
+Output Format: 
 
 
 
