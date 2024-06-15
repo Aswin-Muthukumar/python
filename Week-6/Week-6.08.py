@@ -10,7 +10,7 @@ For example:
 
 
 
-Input	Result
+Input	Result 
 
 Yn
 
