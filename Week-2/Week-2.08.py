@@ -8,7 +8,7 @@ Line 1 has the total number of weapons
 
 Line 2 has the total number of Soldiers.
 
-Output  Format:
+Output  Format: 
 
 If the battle can be won print True otherwise print False.
 
