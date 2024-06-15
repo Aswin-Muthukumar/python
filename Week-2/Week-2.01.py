@@ -8,7 +8,7 @@ Sample Input
 
 10
 
-20
+20 
 
 Sample Output
 
