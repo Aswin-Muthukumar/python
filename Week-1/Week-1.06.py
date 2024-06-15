@@ -9,7 +9,6 @@ If the final result(hrs) are in -ve convert that to +ve using abs() function
 The abs() function returns the absolute value of the given number.
 
 
-
 number = -20
 
 absolute_number = abs(number)
