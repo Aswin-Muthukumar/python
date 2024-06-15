@@ -4,7 +4,7 @@ Given an array of numbers, find the index of the smallest array element (the piv
 
 Example
 
-arr=[1,2,3,4,6]
+arr=[1,2,3,4,6] 
 
 ·         the sum of the first three elements, 1+2+3=6. The value of the last element is 6.
 
