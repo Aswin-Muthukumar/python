@@ -17,7 +17,6 @@ Input	Result
 
 
 
-
 a=int(input())
 
 l=[]
