@@ -11,7 +11,7 @@ Task:
 complete the function which takes a number n as input and checks if it's an ugly number. return ugly if it is ugly, else return not ugly
 
 Hint:
-
+ 
 An ugly number U can be expressed as: U = 2^a * 3^b * 5^c, where a, b and c are nonnegative integers.
 
 For example:
