@@ -17,7 +17,7 @@ Sample Input:
 10000
 
 250
-
+ 
 15000
 
 Sample Output:
