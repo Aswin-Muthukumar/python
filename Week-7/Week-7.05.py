@@ -10,7 +10,7 @@ Input Format:
 
 Integer input from stdin.
 
-Output Format:
+Output Format: 
 
 return the minimum number of coins required to meet the given target.
 
