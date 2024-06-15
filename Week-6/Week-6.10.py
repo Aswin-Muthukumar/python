@@ -7,7 +7,7 @@ Given a string S which is of the format USERNAME@DOMAIN.EXTENSION, the program m
 Input Format:
 
 The first line contains S.
-
+ 
 
 
 Output Format:
