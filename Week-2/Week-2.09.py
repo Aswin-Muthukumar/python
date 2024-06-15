@@ -4,7 +4,7 @@ The program that you create for this exercise will begin by reading the cost of 
 
 Sample Input
 
-100
+100 
 
 Sample Output
 
