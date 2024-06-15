@@ -11,7 +11,7 @@ Example2: if the given number N is 10, the method must return 1
 
 
 For example:
-
+ 
 Input	Result
 
 7	2
