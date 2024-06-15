@@ -7,7 +7,7 @@ Ms. Sita, the faculty handling programming lab for you is very strict. Your seni
 Input Format: 
 
 Input consists of 2 integers.
-
+ 
  The first integer corresponds to the number of problems given and the second integer corresponds to the number of problems solved.
 
  Output Format:
