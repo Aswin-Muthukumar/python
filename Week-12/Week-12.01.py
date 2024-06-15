@@ -43,7 +43,6 @@ Constraints:
 
 
 
-
 For example:
 
 Input	Result
