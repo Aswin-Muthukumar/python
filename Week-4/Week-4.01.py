@@ -6,7 +6,7 @@ For example:
 
 Input	Result	
 
-20	1 2 4 5 10 20	
+20	1 2 4 5 10 20	 
 
 k=int(input())
 
