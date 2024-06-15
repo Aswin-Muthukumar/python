@@ -1,7 +1,7 @@
 Remove Palindrome Words
 
 String should contain only the words are not palindrome.
-
+ 
 
 
 Sample Input 1
