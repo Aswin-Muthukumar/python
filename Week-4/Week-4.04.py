@@ -13,7 +13,7 @@ Perfect square greater than N.
 Example Input:
 
 10
- 
+  
 Output:
 
 16
