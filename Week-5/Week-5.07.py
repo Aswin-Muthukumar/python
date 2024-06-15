@@ -15,7 +15,7 @@ list1 and list 2 :  Two lists
 Output
 
 Zipped List : List which combined both list1 and list2
-
+ 
 
 
 Sample test case
