@@ -14,7 +14,7 @@ Example input:
  
 1453
 
-Output:
+Output: 
 
 1
 
