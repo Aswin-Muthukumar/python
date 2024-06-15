@@ -11,7 +11,7 @@ if the given number is 197, the last digit is 7
 if the given number is -197, the last digit is 7
 
 For example:
-
+ 
 Input	Result
 
 123	3
