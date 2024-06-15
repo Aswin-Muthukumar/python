@@ -11,7 +11,7 @@ Create a student dictionary  for n students with the student name as key and the
 3.Identify the student with the Lowest lab marks
 
 4.Identify the student with the lowest average score
-
+ 
 Note:
 
 If more than one student has the same score display all the student names
