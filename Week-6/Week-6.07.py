@@ -8,7 +8,7 @@ Input:
 
 A&B
 
-Output:
+Output: 
 
 B&A
 
