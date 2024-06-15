@@ -23,7 +23,6 @@ Input	Result
 
 
 
-
 s=int(input())
 
 da=s*0.4
