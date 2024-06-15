@@ -14,7 +14,7 @@ For example:
 
 Input	Result
 
-292	2
+292	2 
 
 1015	3
 
