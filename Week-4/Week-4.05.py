@@ -10,7 +10,7 @@ NOTE: Fibonacci series looks like –
 
 i.e. Fibonacci series starts with 0 and 1, and continues generating the next number as the sum of the previous two numbers.
 
-• first Fibonacci number is 0,
+• first Fibonacci number is 0, 
 
 • second Fibonacci number is 1,
 
