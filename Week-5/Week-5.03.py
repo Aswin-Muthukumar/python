@@ -12,7 +12,7 @@ Sample Test Cases
 
 23
 
-45
+45 
 
 23
 
