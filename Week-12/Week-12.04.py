@@ -4,7 +4,7 @@ Raghu owns a shoe shop with a varying inventory of shoe sizes. The shop caters t
 
 
 
-Problem Statement:
+Problem Statement: 
 
 Develop a Python program that manages shoe inventory and processes sales transactions to determine the total revenue generated. The program should handle inputs of shoe sizes available in the shop, track the number of each size, and match these with customer purchase requests. Each transaction should only proceed if the desired shoe size is in stock, and the inventory should update accordingly after each sale.
 
