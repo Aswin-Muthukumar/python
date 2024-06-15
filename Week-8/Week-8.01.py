@@ -14,7 +14,7 @@ Output: Yes
 
 Input: str = "REC101"
 
-Output: No
+Output: No 
 
 
 
