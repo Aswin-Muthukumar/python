@@ -4,7 +4,7 @@ Given an array of strings words, return the words that can be typed using letter
 
 In the American keyboard:
 
-●	the first row consists of the characters "qwertyuiop",
+●	the first row consists of the characters "qwertyuiop", 
 
 ●	the second row consists of the characters "asdfghjkl", and
 
