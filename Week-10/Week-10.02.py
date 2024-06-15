@@ -15,7 +15,7 @@ Array is sorted in 3 swaps.
 First Element: 1  
 
 Last Element: 6   
-
+ 
 
 
 Input Format
