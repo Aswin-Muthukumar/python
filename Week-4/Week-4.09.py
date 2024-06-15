@@ -17,7 +17,7 @@ Example Input:
 Output:
 
 Yes
-
+ 
 Example Input:
 
 13
