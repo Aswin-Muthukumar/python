@@ -12,7 +12,7 @@ Yes or No.
 
 Example Input:
 
-24
+24 
 
 Output:
 
