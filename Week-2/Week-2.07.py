@@ -7,7 +7,7 @@ Hint:
 Use ASCII values of C and D.
 
 
-
+ 
 Input Format:
 
 An integer x, 0<=x<=1. .
