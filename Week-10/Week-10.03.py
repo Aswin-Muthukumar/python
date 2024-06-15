@@ -16,7 +16,7 @@ The first line contains a single integer n , the length of A .
 
 The second line contains n space-separated integers,A[i]. 
 
-
+ 
 
 Output Format
 
