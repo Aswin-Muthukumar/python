@@ -9,7 +9,7 @@ i
 Sample Output 1
 
 It's a vowel.
-
+ 
 Sample Input 2
 
 y
