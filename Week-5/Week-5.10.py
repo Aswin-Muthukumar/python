@@ -13,7 +13,7 @@ Output
 Print "True" if list is strictly increasing or decreasing else print "False"
 
 
-
+ 
 Sample Test Case
 
 
