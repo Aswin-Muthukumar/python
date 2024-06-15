@@ -14,7 +14,7 @@ Array elements for array2
 
 Output Format
 
-Display the merged array
+Display the merged array 
 
 
 
